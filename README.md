@@ -1,6 +1,6 @@
 # imagenapp2552952017
 
-A new Flutter project.
+Aplicacion de visualizacion de imagenes utilizando flutter y arreglos de objetos como fuente de almacenamiento
 
 ## Getting Started
 
