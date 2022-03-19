@@ -82,6 +82,52 @@ const List Animales = [
       },
     ]
   },
+  {
+    "tipo": "Peces",
+    "datos": [
+      {
+        "nombre": "Cirujano Azul",
+        "descripcion":
+            "Los peces cirujano azul pueden encontrarse en las aguas cristalinas de los arrecifes de coral. Los expertos creen que, cada año, más o menos un cuarto de millón de ellos son sacados de su hábitat natural para ser comerciados en acuarios.",
+        "imagen": "assets/images/cirujano.jpg"
+      },
+      {
+        "nombre": "Pez Payaso",
+        "descripcion":
+            "Amphiprioninae es una subfamilia de peces marinos de la familia Pomacentridae, que engloba únicamente a los géneros Amphiprion y Premnas, cuyos componentes son conocidos como peces payaso o peces de las anémonas.",
+        "imagen": "assets/images/payaso.jpg"
+      },
+      {
+        "nombre": "Pez Koi",
+        "descripcion":
+            "Se denomina comúnmente carpas koi, peces koi, nishikigoi o simplemente koi al conjunto informal que componen todas las coloridas variedades domésticas de carpas comunes, que fueron desarrolladas en Asia por selección, partiendo de especímenes que presentaban el fenotipo silvestre.",
+        "imagen": "assets/images/koi.jpg"
+      }
+    ]
+  },
+  {
+    "tipo": "Insectos",
+    "datos": [
+      {
+        "nombre": "Mantis Religiosa",
+        "descripcion":
+            "Mantis religiosa, comúnmente llamada santateresa, silbata, mamboretá, campamocha o tatadiós o simplemente mantis, es una especie de insecto mantodeo de la familia Mantidae. Tiene una amplia distribución geográfica en todo el Viejo Mundo con numerosas subespecies según las regiones.",
+        "imagen": "assets/images/mantis.jpg"
+      },
+      {
+        "nombre": "Fasmidos",
+        "descripcion":
+            "Los fásmidos son un orden de insectos neópteros, conocidos comúnmente como insectos palo e insectos hoja, palote, zacatón o campamocha, mata caballo, mariapalito o bielus, debido a su aspecto corporal; también son llamados mula del diablo también son llamados 'madre culebra'.​Hay descritas más de tres mil especies.",
+        "imagen": "assets/images/fasmido.jpg"
+      },
+      {
+        "nombre": "Escarabajos",
+        "descripcion":
+            "Los coleópteros, comúnmente conocidos como escarabajos, son un orden de insectos con unas 375 000 especies descritas; tiene tantas especies como las plantas vasculares o los hongos y 66 veces más especies que los mamíferos.",
+        "imagen": "assets/images/escarabajo.jpg"
+      }
+    ]
+  },
 ];
 const List Paisajes = [
   {
@@ -157,6 +203,52 @@ const List Paisajes = [
             "es un municipio del distrito homónimo, del departamento de Ahuachapán, El Salvador. Tiene una extensión de 66,64 km² y cuenta con una población de 33,579 habitantes estimados para el año 2013.",
         "imagen": "assets/images/atiquizaya.jpg"
       },
+    ]
+  },
+  {
+    "tipo": "Planetas",
+    "datos": [
+      {
+        "nombre": "Marte",
+        "descripcion":
+            "es el cuarto planeta en orden de distancia al Sol y el segundo más pequeño del sistema solar, después de Mercurio. Recibió su nombre en homenaje al dios de la guerra de la mitología romana (Ares en la mitología griega), y también es conocido como «el planeta rojo»",
+        "imagen": "assets/images/marte.jpg"
+      },
+      {
+        "nombre": "Venus",
+        "descripcion":
+            "Venus es el segundo planeta del sistema solar en orden de proximidad al Sol y el tercero en cuanto a tamaño en orden ascendente después de Mercurio y Marte. Al igual que Mercurio, carece de satélites naturales. Recibe su nombre en honor a Venus, la diosa romana del amor.",
+        "imagen": "assets/images/venus.jpg"
+      },
+      {
+        "nombre": "Saturno",
+        "descripcion":
+            "Saturno es el sexto planeta del sistema solar contando desde el Sol, el segundo en tamaño y masa después de Júpiter y el único con un sistema de anillos visible desde la Tierra. Su nombre proviene del dios romano Saturno. Forma parte de los denominados planetas exteriores o gaseosos.",
+        "imagen": "assets/images/saturno.jpg"
+      }
+    ]
+  },
+  {
+    "tipo": "Galaxias",
+    "datos": [
+      {
+        "nombre": "Via Lactea",
+        "descripcion":
+            "La Vía Láctea es una galaxia espiral donde se encuentra el sistema solar y a su vez se halla la Tierra. Según las observaciones, posee una masa de 10¹² masas solares y, por su forma, es una galaxia del tipo espiral barrada",
+        "imagen": "assets/images/vialactea.jpg"
+      },
+      {
+        "nombre": "Andromeda",
+        "descripcion":
+            "La galaxia de Andrómeda, también conocida como Galaxia Espiral M31, Messier 31 o NGC 224, es una galaxia espiral con un diámetro de doscientos veinte mil años luz y de unos ciento cincuenta mil años luz entre los extremos de sus brazos. Es el objeto visible a simple vista más lejano de la Tierra.",
+        "imagen": "assets/images/andromeda.jpg"
+      },
+      {
+        "nombre": "Triangulum",
+        "descripcion":
+            "La pequeña y norteña constelación de Triangulum alberga a esta magnífica galaxia vista de frente, M33. Sus nombres populares incluyen la Galaxia del Molinete o sólo la Galaxia de Triangulum. M33 tiene más de 50,000 años luz de diámetro, es la tercera más grande en el Grupo Local de galaxias después de la Galaxia de Andrómeda (M31) y de nuestra propia Vía Láctea.",
+        "imagen": "assets/images/triangulo.jpg"
+      }
     ]
   },
 ];
